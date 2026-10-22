@@ -1,0 +1,10 @@
+
+{
+  "servers": {
+    "my-first-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/Users/rafiulrefat/Projects/my-first-mcp/index.js"]
+    }
+  }
+}
