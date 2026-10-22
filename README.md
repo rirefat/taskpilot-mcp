@@ -61,7 +61,7 @@ The server identifies itself to MCP clients as `taskpilot-mcp` (version `1.0.0`)
 
 ## Available tools
 
-Successful tool results are returned as formatted JSON text. Validation and operation failures are returned as explanatory text errors.
+Successful tool results are returned as formatted JSON text. Validation & operation failures are returned as explanatory text errors.
 
 | Tool | Inputs | Behavior |
 | --- | --- | --- |
